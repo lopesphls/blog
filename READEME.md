@@ -1,1 +1,0 @@
-Projeto do blog criando crud.
